@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content_area" type="id" />
+    <item name="text_view_email" type="id" />
+    <item name="text_view_logout" type="id" />
+</resources>

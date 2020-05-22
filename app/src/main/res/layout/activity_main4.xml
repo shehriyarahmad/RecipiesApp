@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFBE4EC"
+    tools:context=".Main4Activity">
+<androidx.appcompat.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/one"
+    android:background="#FFE91E63"
+    />
+
+    <Button
+
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:background="@drawable/custombutton"
+        android:text="All Recipies" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:background="@drawable/custombutton"
+        android:text="Categories" />
+    <Button
+        android:id="@+id/btn3"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:background="@drawable/custombutton"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Favourites" />
+    <Button
+        android:id="@+id/btn3"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:background="@drawable/custombutton"
+        android:text="Request Recipie"
+        android:src="@drawable/ic_file_download_black_24dp"
+        android:onClick="addimage"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:background="@drawable/custombutton"
+        />
+
+</LinearLayout>

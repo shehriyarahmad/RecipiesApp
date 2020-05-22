@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719559091276",
+    "firebase_url": "https://height-increasing-food.firebaseio.com",
+    "project_id": "height-increasing-food",
+    "storage_bucket": "height-increasing-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719559091276:android:0f104c4f38a91c821b80e9",
+        "android_client_info": {
+          "package_name": "com.heightincreasingfood.a10heightincreasingfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719559091276-n2bloq0tq72bleubmquihas7c2q6onlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heightincreasingfood.a10heightincreasingfood",
+            "certificate_hash": "2cf487f678e2e30905686cd680ba820a1f5044c3"
+          }
+        },
+        {
+          "client_id": "719559091276-02t76694l7r16al4rb2r7cmt4ihcrp8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFXHnYKNZ_P0Fmz477pD1mPf69DdBsu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719559091276-02t76694l7r16al4rb2r7cmt4ihcrp8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
